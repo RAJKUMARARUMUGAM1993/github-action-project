@@ -1,0 +1,7 @@
+trigger:
+- main
+
+pool: server
+
+steps:
+- script: echo "Hello DevOps Demo"
